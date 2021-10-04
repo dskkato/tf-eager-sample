@@ -316,7 +316,7 @@ dependencies = [
 [[package]]
 name = "tensorflow"
 version = "0.17.0"
-source = "git+https://github.com/dskkato/rust?tag=eager-0.17.0-alpha.0#809e633f68599aaf0b1440fff8acf6ff528a0fc8"
+source = "git+https://github.com/dskkato/rust?tag=eager-0.17.0-alpha.1#e4ce7f92d4ac4abe602d446f8335732245104c95"
 dependencies = [
  "byteorder",
  "crc",
@@ -332,7 +332,7 @@ dependencies = [
 [[package]]
 name = "tensorflow-internal-macros"
 version = "0.0.1"
-source = "git+https://github.com/dskkato/rust?tag=eager-0.17.0-alpha.0#809e633f68599aaf0b1440fff8acf6ff528a0fc8"
+source = "git+https://github.com/dskkato/rust?tag=eager-0.17.0-alpha.1#e4ce7f92d4ac4abe602d446f8335732245104c95"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -342,7 +342,7 @@ dependencies = [
 [[package]]
 name = "tensorflow-sys"
 version = "0.20.0"
-source = "git+https://github.com/dskkato/rust?tag=eager-0.17.0-alpha.0#809e633f68599aaf0b1440fff8acf6ff528a0fc8"
+source = "git+https://github.com/dskkato/rust?tag=eager-0.17.0-alpha.1#e4ce7f92d4ac4abe602d446f8335732245104c95"
 dependencies = [
  "curl",
  "flate2",

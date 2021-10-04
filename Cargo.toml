@@ -10,5 +10,5 @@ once_cell = "1.8.0"
 
 [dependencies.tensorflow]
 git = "https://github.com/dskkato/rust"
-tag = "eager-0.17.0-alpha.0"
+tag = "eager-0.17.0-alpha.1"
 features = [ "eager" ]
